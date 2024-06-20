@@ -12,6 +12,7 @@ Welcome to BLOGIT, a comprehensive blogging platform designed for ease of use an
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#Screenshots)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -34,6 +35,16 @@ Welcome to BLOGIT, a comprehensive blogging platform designed for ease of use an
 - **Admin Panel**: An intuitive admin panel for managing users and content.
 - **Authentication System**: Secure authentication using Firebase for user management and session control.
 - **Responsive Design**: Optimized for all devices to ensure a seamless user experience.
+
+## Screenshots
+![Screenshot 2024-06-20 165035](https://github.com/NeerajYadu07/CODTECH-Task2/assets/100270646/d1827e6d-63f8-472c-90cb-151c1e6ce7c0)
+![Screenshot 2024-06-20 165200](https://github.com/NeerajYadu07/CODTECH-Task2/assets/100270646/3ca7b37d-5e93-4936-99e2-c46b9f2232b7)
+![Screenshot 2024-06-20 165112](https://github.com/NeerajYadu07/CODTECH-Task2/assets/100270646/599e2187-0ae3-40c6-a9df-6fdb87a0bc99)
+![Screenshot 2024-06-20 165129](https://github.com/NeerajYadu07/CODTECH-Task2/assets/100270646/34b9bea0-5c0e-49d0-853e-357c9f66af35)
+![Screenshot 2024-06-20 165140](https://github.com/NeerajYadu07/CODTECH-Task2/assets/100270646/49275c96-3918-4d84-a357-1d7920bb7068)
+
+
+
 
 ## Technologies Used
 
