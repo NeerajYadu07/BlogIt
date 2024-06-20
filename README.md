@@ -1,4 +1,10 @@
+- Name: Neeraj Yadu
+- Company: CODTECH IT SOLUTIONS
+- ID: CT08PD736
+- Duration: 20th MAY 2024 to 20th JUNE 2024
+- Mentor: Sravani Gouni
 
+# Project Overview
 # BLOGIT
 
 Welcome to BLOGIT, a comprehensive blogging platform designed for ease of use and powerful functionality. Whether you're a seasoned blogger or just starting, BLOGIT provides the tools you need to create, manage, and share your content effortlessly.
